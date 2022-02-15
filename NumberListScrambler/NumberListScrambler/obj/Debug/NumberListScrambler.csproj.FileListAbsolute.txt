@@ -1,8 +1,0 @@
-D:\_Data\Code\NumberListScrambler\NumberListScrambler\bin\Debug\NumberListScrambler.exe.config
-D:\_Data\Code\NumberListScrambler\NumberListScrambler\bin\Debug\NumberListScrambler.exe
-D:\_Data\Code\NumberListScrambler\NumberListScrambler\bin\Debug\NumberListScrambler.pdb
-D:\_Data\Code\NumberListScrambler\NumberListScrambler\obj\Debug\NumberListScrambler.csproj.CoreCompileInputs.cache
-D:\_Data\Code\NumberListScrambler\NumberListScrambler\obj\Debug\NumberListScrambler.exe
-D:\_Data\Code\NumberListScrambler\NumberListScrambler\obj\Debug\NumberListScrambler.pdb
-D:\_Data\Code\NumberListScrambler\NumberListScrambler\obj\Debug\NumberListScrambler.csproj.AssemblyReference.cache
-D:\_Data\Code\NumberListScrambler\NumberListScrambler\obj\Debug\NumberListScrambler.csproj.SuggestedBindingRedirects.cache
